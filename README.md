@@ -9,5 +9,5 @@ Volume controller - Control the system volume using gesture
 
 Mouse controller - move, click, double click the mouse using gesture
 
-I have made a module name HandModule which tracs the hand using MEDIAPIPE.
+I have made a module name HandModule which tracks the hand gesture using MEDIAPIPE library.
 I have imported this module in all the 3 projects
